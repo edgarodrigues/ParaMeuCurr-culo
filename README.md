@@ -1,1 +1,1 @@
-# ParaMeuCurr-culo
+# ParaMeuCurriculo
