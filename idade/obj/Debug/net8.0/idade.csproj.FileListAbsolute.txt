@@ -1,0 +1,15 @@
+C:\Users\Alunos\Documents\Edgar\ParaMeuCurriculo\idade\bin\Debug\net8.0\idade.exe
+C:\Users\Alunos\Documents\Edgar\ParaMeuCurriculo\idade\bin\Debug\net8.0\idade.deps.json
+C:\Users\Alunos\Documents\Edgar\ParaMeuCurriculo\idade\bin\Debug\net8.0\idade.runtimeconfig.json
+C:\Users\Alunos\Documents\Edgar\ParaMeuCurriculo\idade\bin\Debug\net8.0\idade.dll
+C:\Users\Alunos\Documents\Edgar\ParaMeuCurriculo\idade\bin\Debug\net8.0\idade.pdb
+C:\Users\Alunos\Documents\Edgar\ParaMeuCurriculo\idade\obj\Debug\net8.0\idade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alunos\Documents\Edgar\ParaMeuCurriculo\idade\obj\Debug\net8.0\idade.AssemblyInfoInputs.cache
+C:\Users\Alunos\Documents\Edgar\ParaMeuCurriculo\idade\obj\Debug\net8.0\idade.AssemblyInfo.cs
+C:\Users\Alunos\Documents\Edgar\ParaMeuCurriculo\idade\obj\Debug\net8.0\idade.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\Documents\Edgar\ParaMeuCurriculo\idade\obj\Debug\net8.0\idade.sourcelink.json
+C:\Users\Alunos\Documents\Edgar\ParaMeuCurriculo\idade\obj\Debug\net8.0\idade.dll
+C:\Users\Alunos\Documents\Edgar\ParaMeuCurriculo\idade\obj\Debug\net8.0\refint\idade.dll
+C:\Users\Alunos\Documents\Edgar\ParaMeuCurriculo\idade\obj\Debug\net8.0\idade.pdb
+C:\Users\Alunos\Documents\Edgar\ParaMeuCurriculo\idade\obj\Debug\net8.0\idade.genruntimeconfig.cache
+C:\Users\Alunos\Documents\Edgar\ParaMeuCurriculo\idade\obj\Debug\net8.0\ref\idade.dll
